@@ -3,7 +3,7 @@ Issues
 
 Este es un repositorio público de seguimiento de problemas para errores y funciones confirmadas en Seocraft Network
 
-¿Tienes una **sugerencia**? ¡Postéala en nuestro [Foro](http://localhost:4200/foro)!
+¿Tienes una **sugerencia**? ¡Postéala en nuestro [Foro](https://www.seocraft.net/foro)!
 
 ### Importante:
 
